@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>@piotreksda</b>
 - 🌱 I’m currently working on <b>Interview app with CMS</b>
 - 🧠 I’m currently learning <b>.NET MAUI</b>
-- 💬 Ask me about <b>.NET 6, Python, TypeScript<b/>
+- 💬 Ask me about <b>.NET 6, Python, TypeScript</b>
 - 📫 How to reach me <b>[@piotrusJestem](https://twitter.com/piotrusJestem) on Twitter</b>
 
 <picture>
