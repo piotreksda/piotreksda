@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@piotreksda</b>
-- 🌱 I’m currently working on <b>Portfolio app with CMS</b>
-- 🧠 I’m currently learning <b>.NET MAUI</b>
+- 🌱 I’m currently working on <b>Large-Scale Web Service</b>
+- 🧠 I’m currently learning <b>Large-Scale Application Development</b>
 - 💬 Ask me about <b>.NET 5+, TypeScript and Python</b>
 - 📫 How to reach me <b>[@Piotrek Bartczak](https://www.linkedin.com/in/bartczak-piotr/) on Linkedin</b>
 
